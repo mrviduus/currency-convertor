@@ -158,7 +158,7 @@ async void Conversion(string amountStr, string fromStr, string toStr, string sta
     foreach (var item in result)
     {
         Console.WriteLine(
-            $"Conversion done! Date from {amount} {from} to {to}. Start date is {startDate}. End date is {endDate} \n" +
+            $"Conversion done! Your amount = {amount}, from = {from}, to {to}. Start date is {startDate}. End date is {endDate} \n" +
             $"The result is : \n" +
             $"Date: {item.Date}. Value: {item.Value} \n");
     }
