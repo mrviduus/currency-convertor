@@ -1,0 +1,12 @@
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.csproj.AssemblyReference.cache
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.AssemblyInfoInputs.cache
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.AssemblyInfo.cs
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.csproj.CoreCompileInputs.cache
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\bin\Debug\net6.0\CurrenyConvertor.deps.json
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\bin\Debug\net6.0\CurrenyConvertor.dll
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\bin\Debug\net6.0\ref\CurrenyConvertor.dll
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\bin\Debug\net6.0\CurrenyConvertor.pdb
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.dll
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\ref\CurrenyConvertor.dll
+C:\MyProjects\_github\currency-convertor\currency-convertor\CurrenyConvertor\obj\Debug\net6.0\CurrenyConvertor.pdb
