@@ -1,5 +1,5 @@
 # CurrenyConvertor
-**CurrenyConvertor** a simple conversion service based on .NET 6.0, using the console as a client.
+**CurrenyConvertor** a simple conversion service based on .NET 6.0, using the console as a client. As an api for receiving data, use https://www.bankofcanada.ca/valet/docs
 
 ## Project structure
 * **CurrenyConvertor** - main service project.
