@@ -11,6 +11,7 @@ namespace CurrenyConvertor.Services
     public class CurrenyConvertorService : ICurrenyConvertorService
     {
         private readonly CurrenyConvertorOptions config;
+        
         public CurrenyConvertorService(IOptionsSnapshot<CurrenyConvertorOptions> options)
         {
 
